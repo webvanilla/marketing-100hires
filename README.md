@@ -1,19 +1,46 @@
-# JUNIOR MARKETING SPECIALIST 
-Public portfolio to demonstrate AI tool skills, judgement and research skills
+# Junior Marketing Specialist
 
-Steps followed:
-I already had cursor IDE installed in my system but I did upgrade it to the latest version 3.5. 
-After installation, I searched for Claude Code and Codex extensions and installed both of them.
-I proceeded to create a public repository on Github with repo name marketing-100hires
-I connected my github with Cursor so I could clone the repo in my local and update this README file.
-I will push this file to Git and await further instructions.
+> Public portfolio demonstrating AI tool skills, judgment, and research capabilities.
 
-I did not face any problems with any of the installations.
+---
 
-Tools installed
-Cursor IDE
+## Overview
 
-Extensions added
-Claude Code 
-Codex
-Github
+This repository documents my setup process for working with AI-assisted development tools as part of a skills demonstration portfolio.
+
+---
+
+## Setup Steps
+
+| Step | Action |
+|------|--------|
+| 1 | Upgraded **Cursor IDE** to the latest version (3.5) — already installed on my system |
+| 2 | Searched for and installed the **Claude Code** and **Codex** extensions |
+| 3 | Created a public GitHub repository named `marketing-100hires` |
+| 4 | Connected GitHub to Cursor and cloned the repo locally |
+| 5 | Updated this README and pushed to Git — awaiting further instructions |
+
+---
+
+## Tools & Extensions
+
+### IDE
+
+| Tool | Status |
+|------|--------|
+| Cursor IDE | Installed & upgraded to v3.5 |
+
+### Extensions
+
+| Extension | Purpose |
+|-----------|---------|
+| Claude Code | AI-assisted coding |
+| Codex | AI code generation |
+| GitHub | Repository integration |
+
+---
+
+## Notes
+
+- All installations completed without issues.
+- This README will be updated as the project progresses.
